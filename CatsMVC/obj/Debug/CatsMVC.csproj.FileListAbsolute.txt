@@ -1,0 +1,10 @@
+D:\Aleks\Applications\C#\CatsMVC\bin\Debug\CatsMVC.exe.config
+D:\Aleks\Applications\C#\CatsMVC\bin\Debug\CatsMVC.exe
+D:\Aleks\Applications\C#\CatsMVC\bin\Debug\CatsMVC.pdb
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.csprojAssemblyReference.cache
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.Properties.Resources.resources
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.csproj.GenerateResource.cache
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.csproj.CoreCompileInputs.cache
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.exe
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.pdb
+D:\Aleks\Applications\C#\CatsMVC\obj\Debug\CatsMVC.View.CatsView.resources
